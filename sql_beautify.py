@@ -205,5 +205,5 @@ if __name__ == '__main__':
     # str = set_type(str)
     # print(str)
 
-    upper_or_lower_sql(1)  # 命令行的第一个参数（只能为1和2）
+    # upper_or_lower_sql(1)  # 命令行的第一个参数（只能为1和2）
     # upper_or_lower_sql(int(sys.argv[1]))  # 命令行的第一个参数（只能为1和2）
